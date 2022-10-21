@@ -20,7 +20,7 @@ window.dataLayer.push({
       item_variant: 'Navy blue',  // jei nenaudojame - nebūtina
       quantity: '3'
     },{
-      item_name: 'Parka stain removal',
+      item_name: 'Parka stain removal',  // jei pirkimo metu yra antra prekė ir daugiau - pridedame tokia pat logika, po items: 
       item_id: 'psr1332',
       price: '5.99',
       item_brand: 'PARKA4LIFE',
